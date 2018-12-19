@@ -1,0 +1,6 @@
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/bin/Debug/Delegates_Example.exe
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/bin/Debug/Delegates_Example.pdb
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/obj/Debug/Delegates_Example.csprojAssemblyReference.cache
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/obj/Debug/Delegates_Example.csproj.CoreCompileInputs.cache
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/obj/Debug/Delegates_Example.exe
+/home/harshal/RiderProjects/Delegates_Example/Delegates_Example/obj/Debug/Delegates_Example.pdb
